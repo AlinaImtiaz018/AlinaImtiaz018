@@ -23,7 +23,7 @@ In addition to hands-on modeling, I focus on literature research and evidence-ba
 When I’m not working with data, I enjoy gaming, painting, singing, and photography. I find it rewarding to uncover insights that turn data into something clear and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://my-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://AlinaImtiaz018.github.io/)
       
 ## 🔭 Featured Projects
 
