@@ -13,7 +13,8 @@
   <a href="mailto:alinaimtiaz097@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-** `About Me` **
+**`About Me`**
+<br />
 I am a Data Scientist with strong experience in building, evaluating, and deploying machine learning models to solve real-world problems. Proficient in predictive modeling, data preprocessing, feature engineering, and performance optimization, with hands-on experience using algorithms such as Random Forest, CatBoost, and other regression techniques.
 
 Skilled in working with complex, structured datasets, developing end-to-end ML pipelines, and translating data into actionable insights that drive business decisions. Strong understanding of model evaluation, validation strategies, and best practices to ensure robust and reliable results.
