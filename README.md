@@ -235,5 +235,105 @@ Also experienced with **Spring Boot, Bootstrap, Material UI, WordPress, Photosho
 
 ##  Currently Learning:
 
-<p>
-<img src="https://img.shields.io/b
+<p> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> </p>
+
+Continuously expanding from model development → reproducible ML workflows → deployment and analytics.
+
+<br/>
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+ GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/AlinaImtiaz018"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlinaImtiaz018&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=0891b2&icon_color=0891b2&text_color=444444&bg_color=ffffff" /> </a>
+
+<a href="https://github.com/AlinaImtiaz018"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaImtiaz018&layout=compact&hide_border=true&title_color=0891b2&text_color=444444&bg_color=ffffff" /> </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlinaImtiaz018&hide_border=true&background=FFFFFF&ring=0891B2&fire=0891B2&currStreakLabel=0891B2&sideLabels=444444&dates=777777" />
+
+</div>
+
+<br/>
+
+<!-- ===================== TROPHIES ===================== -->
+
+ GitHub Highlights
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AlinaImtiaz018&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+<br/>
+
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
+ My Contribution Garden
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlinaImtiaz018&bg_color=ffffff&color=444444&line=0891b2&point=0891b2&area=true&hide_border=true" />
+
+</div>
+
+<br/>
+
+<!-- ===================== SNAKE ===================== -->
+
+ Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AlinaImtiaz018/AlinaImtiaz018/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+<br/>
+
+<!-- ===================== PERSONAL ===================== -->
+
+☕ Beyond the Code
+
+When I'm not exploring datasets or building models, you'll usually find me:
+
+ Gaming
+ Painting
+ Singing
+ Photography
+
+I enjoy the creative side of technology too, especially finding ways to turn complex information into something clear, useful, and visually engaging.
+
+<br/>
+
+<!-- ===================== PORTFOLIO ===================== -->
+
+<div align="center">
+
+🌐 Want to see more?
+
+<a href="https://AlinaImtiaz018.github.io/"> <img src="https://img.shields.io/badge/✨%20Explore%20My%20Portfolio-0891b2?style=for-the-badge&logoColor=white" /> </a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/alinaimtiaz"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://www.youtube.com/@alinaimtiaz"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /> </a> &nbsp; <a href="mailto:alinaimtiaz097@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /> </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AlinaImtiaz018&label=Profile%20Views&color=0891b2&style=flat-square" />
+
+<br/><br/>
+
+<i> Building with data, learning continuously, and turning ideas into useful solutions.</i>
+
+</div>
+
+<!-- ===================== END ===================== -->
