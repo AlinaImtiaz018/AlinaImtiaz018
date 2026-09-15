@@ -23,7 +23,7 @@
 
 I'm a **Data Scientist** interested in building machine learning solutions that connect rigorous analysis with real-world impact.
 
-My work spans the full data science workflow — from **data preprocessing and feature engineering** to **predictive modeling, model evaluation, optimization, and interpretation**.
+My work spans the full data science workflow from **data preprocessing and feature engineering** to **predictive modeling, model evaluation, optimization, and interpretation**.
 
 I enjoy working with complex structured datasets, experimenting with different modeling approaches, and using evidence from both **data and research literature** to identify solutions that are reliable, interpretable, and useful.
 
@@ -89,7 +89,7 @@ Literature-driven problem-solving and exploring how machine learning can be appl
 
 ##  Featured Projects:
 
-###  ICON — In-Patient Day Surgery Optimization
+###  ICON: In-Patient Day Surgery Optimization
 
 **Machine Learning · Healthcare · Predictive Modeling · Django**
 
@@ -108,7 +108,7 @@ My work included:
 
 ---
 
-###  Emotion Recognition from Voice
+###  Emotion Recognition from Voice using Python
 
 **Machine Learning · Audio Processing · Classification**
 
