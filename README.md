@@ -47,7 +47,7 @@ I'm particularly interested in opportunities where **data science, machine learn
 <tr>
 <td width="50%">
 
-###  Machine Learning
+###  Machine Learning:
 
 Predictive modeling, feature engineering, model optimization, validation strategies, and interpretable machine learning.
 
