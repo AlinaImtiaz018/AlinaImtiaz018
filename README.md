@@ -297,7 +297,7 @@ I enjoy the creative side of technology too, especially finding ways to turn com
 
 <img src="https://komarev.com/ghpvc/?username=AlinaImtiaz018&label=Profile%20Views&color=0891b2&style=flat-square" />
 
-<br/>
+<br/><br/>
 
 <i> Building with data, learning continuously, and turning ideas into useful solutions.</i>
 
