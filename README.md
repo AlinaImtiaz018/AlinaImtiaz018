@@ -176,7 +176,7 @@ Focused on applying computer vision techniques to support medical image analysis
 
 **Libraries & Tools**
 
-`pandas` · `NumPy` · `scikit-learn` · `TensorFlow` · `PyTorch` · `Matplotlib` · `statsmodels` · `Optuna` · `Transformers`
+`pandas` · `NumPy` · `scikit-learn` · `TensorFlow` · `PyTorch` · `Matplotlib` · `statsmodels` · `Optuna` · `Transformers` · `MLFlow`
 
 ---
 
@@ -186,7 +186,7 @@ Focused on applying computer vision techniques to support medical image analysis
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" />
 </p>
 
-`SQL` · `Excel` · `Statistical Inference` · `Predictive Modeling` · `A/B Testing` · `Dashboarding` · `Data Storytelling` · `KPI Design`
+`SQL` · `Excel` · `dbt` · `Statistical Inference` · `Predictive Modeling` · `A/B Testing` · `Dashboarding` · `Data Storytelling` · `KPI Design`
 
 ---
 
