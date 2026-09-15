@@ -19,8 +19,6 @@
 
 <!-- ===================== ABOUT ===================== -->
 
-## About Me:
-
 I'm a **Data Scientist** interested in building machine learning solutions that connect rigorous analysis with real-world impact.
 
 My work spans the full data science workflow from **data preprocessing and feature engineering** to **predictive modeling, model evaluation, optimization, and interpretation**.
