@@ -2,13 +2,19 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100" alt="Hello animation"/>
+<table border="0" width="100%"> <tr> <td width="65%" valign="middle">
 
-# Hi, I'm Alina
+<h1>Hi, I'm Alina</h1>
 
-### Data Scientist · Applied AI · Machine Learning
+<h3>Data Scientist · Data Engineer · Machine Learning</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=Turning+data+into+actionable+insights;Building+reliable+machine+learning+solutions;Exploring+explainable+AI+%26+predictive+modeling;From+research+to+real-world+applications" alt="Typing SVG"/>
+</td>
+
+<td width="35%" align="center" valign="middle">
+  <img src="images/coding-girl.gif" alt="Typing animation" width="260"/>
+</td> </tr> </table>
+
 </div>
 
 <!-- ===================== ABOUT ===================== -->
