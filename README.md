@@ -289,11 +289,24 @@ Continuously expanding from model development → reproducible ML workflows → 
 
 <!-- ===================== SNAKE ===================== -->
 
- Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AlinaImtiaz018/AlinaImtiaz018/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AlinaImtiaz018/AlinaImtiaz018/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AlinaImtiaz018/AlinaImtiaz018/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/AlinaImtiaz018/AlinaImtiaz018/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
@@ -301,7 +314,7 @@ Continuously expanding from model development → reproducible ML workflows → 
 
 <!-- ===================== PERSONAL ===================== -->
 
-☕ Beyond the Code
+ Beyond the Code
 
 When I'm not exploring datasets or building models, you'll usually find me:
 
@@ -318,7 +331,7 @@ I enjoy the creative side of technology too, especially finding ways to turn com
 
 <div align="center">
 
-🌐 Want to see more?
+ Want to see more?
 
 <a href="https://AlinaImtiaz018.github.io/"> <img src="https://img.shields.io/badge/✨%20Explore%20My%20Portfolio-0891b2?style=for-the-badge&logoColor=white" /> </a>
 
