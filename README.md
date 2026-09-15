@@ -68,7 +68,7 @@ Statistical analysis, experimentation, business intelligence, dashboards, and tr
 ###  ML Engineering:
 
 Experiment tracking, reproducible pipelines, deployment workflows, and production-oriented machine learning.
-
+<br/>
 </td>
 
 <td width="50%">
@@ -76,6 +76,7 @@ Experiment tracking, reproducible pipelines, deployment workflows, and productio
 ###  Research:
 
 Literature-driven problem-solving and exploring how machine learning can be applied across different domains.
+<br/>
 
 </td>
 </tr>
