@@ -292,7 +292,8 @@ I enjoy the creative side of technology too, especially finding ways to turn com
 <!-- ===================== PORTFOLIO ===================== -->
 
 <div align="center">
-
+<br/>
+  
 ## Want to see more?
 
 <a href="https://AlinaImtiaz018.github.io/"> <img src="https://img.shields.io/badge/%20Explore%20My%20Portfolio-0891b2?style=for-the-badge&logoColor=white" /> </a>
@@ -303,7 +304,7 @@ I enjoy the creative side of technology too, especially finding ways to turn com
 
 <img src="https://komarev.com/ghpvc/?username=AlinaImtiaz018&label=Profile%20Views&color=0891b2&style=flat-square" />
 
-<br/><br/>
+<br/>
 
 <i> Building with data, learning continuously, and turning ideas into useful solutions.</i>
 
