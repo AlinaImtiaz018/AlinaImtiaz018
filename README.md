@@ -9,34 +9,7 @@
 ### Data Scientist · Applied AI · Machine Learning
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=Turning+data+into+actionable+insights;Building+reliable+machine+learning+solutions;Exploring+explainable+AI+%26+predictive+modeling;From+research+to+real-world+applications" alt="Typing SVG"/>
-
-<br/>
-
-<a href="https://github.com/AlinaImtiaz018">
-  <img src="https://img.shields.io/github/followers/AlinaImtiaz018?label=Followers&style=flat-square&logo=github&color=0891b2" />
-</a>
-&nbsp;
-<a href="https://github.com/AlinaImtiaz018">
-  <img src="https://img.shields.io/github/stars/AlinaImtiaz018?label=Stars&style=flat-square&logo=github&color=0891b2" />
-</a>
-&nbsp;
-<a href="https://AlinaImtiaz018.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0891b2?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/alinaimtiaz">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:alinaimtiaz097@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 </div>
-
-<br/>
 
 <!-- ===================== ABOUT ===================== -->
 
@@ -241,15 +214,20 @@ Continuously expanding from model development → reproducible ML workflows → 
 
 <br/>
 
+
 <!-- ===================== GITHUB STATS ===================== -->
 
- GitHub Activity
+##  GitHub Activity:
 
 <div align="center">
 
-<a href="https://github.com/AlinaImtiaz018"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlinaImtiaz018&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=0891b2&icon_color=0891b2&text_color=444444&bg_color=ffffff" /> </a>
+<a href="https://github.com/AlinaImtiaz018">
+  <img height="180em" src="./profile/stats.svg" alt="Alina's GitHub Stats" />
+</a>
 
-<a href="https://github.com/AlinaImtiaz018"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaImtiaz018&layout=compact&hide_border=true&title_color=0891b2&text_color=444444&bg_color=ffffff" /> </a>
+<a href="https://github.com/AlinaImtiaz018">
+  <img height="180em" src="./profile/top-langs.svg" alt="Alina's Top Languages" />
+</a>
 
 </div>
 
@@ -257,39 +235,16 @@ Continuously expanding from model development → reproducible ML workflows → 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlinaImtiaz018&hide_border=true&background=FFFFFF&ring=0891B2&fire=0891B2&currStreakLabel=0891B2&sideLabels=444444&dates=777777" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlinaImtiaz018&hide_border=true&background=FFFFFF&ring=0891B2&fire=0891B2&currStreakLabel=0891B2&sideLabels=444444&dates=777777" alt="GitHub Streak Stats" />
 
 </div>
 
 <br/>
 
-<!-- ===================== TROPHIES ===================== -->
-
- GitHub Highlights
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AlinaImtiaz018&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
-<br/>
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
- My Contribution Garden
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlinaImtiaz018&bg_color=ffffff&color=444444&line=0891b2&point=0891b2&area=true&hide_border=true" />
-
-</div>
-
-<br/>
 
 <!-- ===================== SNAKE ===================== -->
 
-## Contribution Snake
+## Contribution Snake:
 
 <div align="center">
 
@@ -314,7 +269,7 @@ Continuously expanding from model development → reproducible ML workflows → 
 
 <!-- ===================== PERSONAL ===================== -->
 
- Beyond the Code
+## Beyond the Code:
 
 When I'm not exploring datasets or building models, you'll usually find me:
 
@@ -331,19 +286,17 @@ I enjoy the creative side of technology too, especially finding ways to turn com
 
 <div align="center">
 
- Want to see more?
+## Want to see more?
 
-<a href="https://AlinaImtiaz018.github.io/"> <img src="https://img.shields.io/badge/✨%20Explore%20My%20Portfolio-0891b2?style=for-the-badge&logoColor=white" /> </a>
-
-<br/><br/>
+<a href="https://AlinaImtiaz018.github.io/"> <img src="https://img.shields.io/badge/%20Explore%20My%20Portfolio-0891b2?style=for-the-badge&logoColor=white" /> </a>
+<br/>
 
 <a href="https://www.linkedin.com/in/alinaimtiaz"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://www.youtube.com/@alinaimtiaz"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /> </a> &nbsp; <a href="mailto:alinaimtiaz097@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /> </a>
-
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=AlinaImtiaz018&label=Profile%20Views&color=0891b2&style=flat-square" />
 
-<br/><br/>
+<br/>
 
 <i> Building with data, learning continuously, and turning ideas into useful solutions.</i>
 
