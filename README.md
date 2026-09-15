@@ -274,10 +274,10 @@ Continuously expanding from model development → reproducible ML workflows → 
 
 When I'm not exploring datasets or building models, you'll usually find me:
 
- Gaming
- Painting
- Singing
- Photography
+* Gaming
+* Painting
+* Singing
+* Photography
 
 I enjoy the creative side of technology too, especially finding ways to turn complex information into something clear, useful, and visually engaging.
 
