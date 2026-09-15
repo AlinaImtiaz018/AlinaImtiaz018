@@ -197,7 +197,7 @@ Focused on applying computer vision techniques to support medical image analysis
 ###  Frameworks & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,django,fastapi,flutter,git,linux,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=mlflow,docker,django,fastapi,flutter,git,linux,vscode&theme=light" />
 </p>
 
 Also experienced with **Spring Boot, Bootstrap, Material UI, WordPress, Photoshop, Illustrator, XD, and After Effects**.
@@ -208,7 +208,7 @@ Also experienced with **Spring Boot, Bootstrap, Material UI, WordPress, Photosho
 
 ##  Currently Learning:
 
-<p> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> </p>
+<p> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> </p>
 
 Continuously expanding from model development → reproducible ML workflows → deployment and analytics.
 
@@ -217,17 +217,15 @@ Continuously expanding from model development → reproducible ML workflows → 
 
 <!-- ===================== GITHUB STATS ===================== -->
 
-##  GitHub Activity:
+##  GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/AlinaImtiaz018">
-  <img height="180em" src="./profile/stats.svg" alt="Alina's GitHub Stats" />
-</a>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg" /> <img height="180em" src="./profile/stats.svg" alt="Alina's GitHub Stats" /> </picture>
 
-<a href="https://github.com/AlinaImtiaz018">
-  <img height="180em" src="./profile/top-langs.svg" alt="Alina's Top Languages" />
-</a>
+  
+
+<picture> <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs.svg" /> <img height="180em" src="./profile/top-langs.svg" alt="Alina's Top Languages" /> </picture>
 
 </div>
 
@@ -235,7 +233,10 @@ Continuously expanding from model development → reproducible ML workflows → 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlinaImtiaz018&hide_border=true&background=FFFFFF&ring=0891B2&fire=0891B2&currStreakLabel=0891B2&sideLabels=444444&dates=777777" alt="GitHub Streak Stats" />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=AlinaImtiaz018&hide_border=true&background=0D1117&ring=22D3EE&fire=c95100&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=fc4242"
+  alt="GitHub Streak Stats"
+/>
 
 </div>
 
