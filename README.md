@@ -25,7 +25,7 @@ My work spans the full data science workflow from **data preprocessing and featu
 
 I enjoy working with complex structured datasets, experimenting with different modeling approaches, and using evidence from both **data and research literature** to identify solutions that are reliable, interpretable, and useful.
 
-###  What I work with
+###  What I work with:
 
 *  **Machine Learning & Predictive Modeling**
 *  **Data Analysis & Statistical Modeling**
