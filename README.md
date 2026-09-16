@@ -221,7 +221,7 @@ Continuously expanding from model development → reproducible ML workflows → 
 
 <!-- ===================== GITHUB STATS ===================== -->
 
-##  GitHub Activity
+##  GitHub Activity:
 
 <div align="center">
 
