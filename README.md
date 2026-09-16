@@ -201,7 +201,7 @@ Focused on applying computer vision techniques to support medical image analysis
 ###  Frameworks & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,django,fastapi,flutter,git,linux,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=streamlit,docker,django,fastapi,flutter,git,linux,vscode&theme=light" />
 </p>
 
 Also experienced with **Spring Boot, Bootstrap, Material UI, WordPress, Photoshop, Illustrator, XD, and After Effects**.
